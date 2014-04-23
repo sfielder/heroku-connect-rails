@@ -1,7 +1,7 @@
 development:
   adapter: postgresql
   encoding: unicode
-  database: heroku-rails-connect
+  database: heroku-connect-rails
   pool: 5
   username: postgres
   password: moomoo58
